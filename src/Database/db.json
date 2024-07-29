@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "8f60",
+      "name": "joy",
+      "email": "newuser12@gmail.com",
+      "contact": "788956293",
+      "status": "Inactive"
+    },
+    {
+      "id": "8d1f",
+      "name": "joy",
+      "email": "newuser12@gmail.com",
+      "contact": "788956293",
+      "status": "Inactive"
+    },
+    {
+      "name": "hellojo",
+      "email": "joysjobin70@gmail.com",
+      "contact": "7899829892",
+      "status": "Active",
+      "id": "9c89"
+    },
+    {
+      "id": "ac6d",
+      "name": "joy",
+      "email": "joysundaran12@gmail.com",
+      "contact": "78454598928928",
+      "status": "Inactive"
+    },
+    {
+      "name": "joy",
+      "email": "joysundaran12@gmail.com",
+      "contact": "78454",
+      "status": "Active",
+      "id": "2e16"
+    },
+    {
+      "id": "e480",
+      "name": "joy",
+      "email": "newuser12@gmail.com",
+      "contact": "778787",
+      "status": "Inactive"
+    },
+    {
+      "id": "1fe6",
+      "name": "joy s",
+      "email": "hghg@gmail.com",
+      "contact": "7845895691",
+      "status": "Inactive"
+    },
+    {
+      "name": "Francis joy",
+      "email": "Francis@gmail.com",
+      "contact": "7845122356",
+      "status": "Inactive",
+      "id": "c58e"
+    }
+  ],
+  "authentication": [
+    {
+      "email": "joysjobin70@gmail.com",
+      "password": 123456,
+      "id": "4a13"
+    }
+  ]
+}
