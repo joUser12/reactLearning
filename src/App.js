@@ -5,6 +5,7 @@
 // import { Switch, Route } from "react-router-dom";
 
 import User from "../src/components/User/user";
+import FileUpload from "./components/fileUpload/fileUpload";
 import Login from "./components/loginForm/login";
 import React from 'react';
 import { BrowserRouter as Router, useRoutes } from 'react-router-dom';
@@ -33,6 +34,7 @@ const AppRoutes = () => {
   return useRoutes([
     { path: '/', element: <Login /> },
     { path: '/user', element: <User /> },
+    { path: 'file', element: <FileUpload /> }
   ]);
 }
 
